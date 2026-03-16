@@ -3,3 +3,4 @@
 "# Predick_Stock" 
 "# FInTech" 
 "# FINTECH2" 
+"# FINTECH2" 
